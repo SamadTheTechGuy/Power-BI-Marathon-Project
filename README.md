@@ -27,6 +27,12 @@ Power BI
 ![Screenshot (324)](https://github.com/user-attachments/assets/b937a42b-fa86-4b22-92cf-d85db825a2ea)
 ![Screenshot (325)](https://github.com/user-attachments/assets/5441d846-ee6e-4e83-8b36-556a9875aa8d)
 
+*  The Vendors causing the greatest downtime are Avamm, Izio, and Meetz – having an aggregation of **3,446 hours** of the total downtime **(approx. 216,000 hours)**. While the Plants are Riverside, Charles City, and Twin Rocks – with a sum of **24,882 hours** of the total.
+![Screenshot (326)](https://github.com/user-attachments/assets/307a60c1-ec69-43f7-a69a-14849e385da7)
+![Screenshot (327)](https://github.com/user-attachments/assets/2c7d67c5-e30f-49c4-8317-e2cb4855207b)
+
+ 
+
 
 
 

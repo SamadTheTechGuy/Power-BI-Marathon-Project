@@ -31,6 +31,15 @@ Power BI
 ![Screenshot (326)](https://github.com/user-attachments/assets/307a60c1-ec69-43f7-a69a-14849e385da7)
 ![Screenshot (327)](https://github.com/user-attachments/assets/2c7d67c5-e30f-49c4-8317-e2cb4855207b)
 
+*  The combination of **Corrugate material** and **Feedfire Vendor** performed poorly with a total downtime of **568.23 hours**.
+![Screenshot (329)](https://github.com/user-attachments/assets/980ca59e-dbc9-4cdb-9895-e8bf17a47785)
+
+*  The combination of Wikido Vendor and Middletown Plant performed poorly with a total downtime of **244.95 hours**.
+![Screenshot (330)](https://github.com/user-attachments/assets/a26bc5c9-d421-4cf0-9566-7782dddec62e)
+
+
+
+
  
 
 

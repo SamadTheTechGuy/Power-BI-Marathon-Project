@@ -17,6 +17,7 @@ Power BI
 *  Used Power Query for data cleaning, data transformation, and data modelling.
 *  Created DAX measures for data analysis.
 *  Data visualization
+*  Used Canva and Powerpoint for background design.
 *  Report Design
 
 ## Key Insights
@@ -39,6 +40,14 @@ Power BI
 
 *  There has been an upward monthly trend for **Mechanicals** and **Logistics** categories over the past years (2018 and 2019).
 ![Screenshot (331)](https://github.com/user-attachments/assets/1427113e-c5ac-42ae-9846-7ae6f57873ea)
+
+## Dashboard Reports
+![Screenshot (339)](https://github.com/user-attachments/assets/de7bbd75-dab8-4c57-9b65-24bbce737895)
+![Screenshot (334)](https://github.com/user-attachments/assets/203fb527-3acf-4ea0-ab54-e7ae6a2c74bc)
+![Screenshot (335)](https://github.com/user-attachments/assets/0ba04076-949b-4b36-b005-f214ed72c1ee)
+![Screenshot (336)](https://github.com/user-attachments/assets/9644d839-2617-43e2-a5d2-80f10ce2db7f)
+![Screenshot (337)](https://github.com/user-attachments/assets/8a5f4bd5-f80b-4eba-bfc0-e25bb851df25)
+![Screenshot (338)](https://github.com/user-attachments/assets/f5ccac07-96c2-47d2-9a48-406bcc3f590a)
 
 
 ## Recommendation

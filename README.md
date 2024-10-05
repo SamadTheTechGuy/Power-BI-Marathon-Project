@@ -20,8 +20,13 @@ Power BI
 *  Report Design
 
 ## Key Insights
-*  Here are some **key metrics** from the analysis.
+*  Here are some **Key Performance Indicators** from the analysis.
 ![Screenshot (323)](https://github.com/user-attachments/assets/f75bb378-b881-49d3-9944-c009bc03b8b3)
+
+*  The Vendors causing the greatest defect quantities are Yombu, Avamm, and Meejo – they account for **1.7%** of the total defect quantities **(approx. 2.6 billion)**. While the Plants are Hingham, Charles City, and Twin Rocks – these account for **11%** of the total. 
+![Screenshot (324)](https://github.com/user-attachments/assets/b937a42b-fa86-4b22-92cf-d85db825a2ea)
+![Screenshot (325)](https://github.com/user-attachments/assets/5441d846-ee6e-4e83-8b36-556a9875aa8d)
+
 
 
 

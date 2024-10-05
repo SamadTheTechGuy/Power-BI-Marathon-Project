@@ -1,5 +1,5 @@
 # Power-BI-Marathon-Project
-This project is about a manufacturing company that recieves and orders for raw materials for production or general maintenance for year 2018 and 2019.
+This project is about a manufacturing company that receives and orders for raw materials for production or general maintenance for year 2018 and 2019.
 # Brief Introduction
 Enterprise Manufacturers Limited aim to reduce the downtime and cost caused by the raw materials received and ensure that they are of good quality. The company did not have any procurement team to look into this but has a programme management team that managed to gather data from across the plants with information around the material, defect and vendor. So, I have been tasked as an analyst to help visualize and extrapolate the findings from this data using Power BI. 
 ## Brief Overview of the dataset

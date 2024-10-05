@@ -1,5 +1,5 @@
 # Power-BI-Marathon-Project
-This project is about a manufacturing company that recieves and orders for raw materials for production or general maintenance.
+This project is about a manufacturing company that recieves and orders for raw materials for production or general maintenance for year 2018 and 2019.
 # Brief Introduction
 Enterprise Manufacturers Limited aim to reduce the downtime and cost caused by the raw materials received and ensure that they are of good quality. The company did not have any procurement team to look into this but has a programme management team that managed to gather data from across the plants with information around the material, defect and vendor. So, I have been tasked as an analyst to help visualize and extrapolate the findings from this data using Power BI. 
 ## Brief Overview of the dataset
@@ -9,7 +9,7 @@ Data was provided by Tina Okonkwo. The dataset is structured and contains 1 tabl
 *  Which vendors/plants are causing the greatest downtime?
 *  Is there a particular combination of material and vendor that perform poorly?
 *  Is there a particular combination of Vendor and plant that performs poorly?
-*  What is the monthly trend of the categories with defect quantities?
+*  What is the trend of the categories with the most defect quantities?
 ## Tool used
 Power BI
 ## Processes
@@ -36,6 +36,21 @@ Power BI
 
 *  The combination of Wikido Vendor and Middletown Plant performed poorly with a total downtime of **244.95 hours**.
 ![Screenshot (330)](https://github.com/user-attachments/assets/a26bc5c9-d421-4cf0-9566-7782dddec62e)
+
+*  There has been an upward monthly trend for **Mechanicals** and **Logistics** categories over the past years (2018 and 2019).
+![Screenshot (331)](https://github.com/user-attachments/assets/1427113e-c5ac-42ae-9846-7ae6f57873ea)
+
+
+## Recommendation
+I would suggest that Enterprise Manufacturers Limited should perform regular supplier audits for Vendors such as Yombu, Avamm, Meejo, and Feedfire to ensure they are meeting quality standards. 
+
+Also, the company should renegotiate contracts with Vendors like Avamm, Izio, and Meetz (who cause significant downtime) to include penalties for defective materials or excessive downtime.
+
+Moreso, the company should prioritize reducing downtime for the Corrugate material from Feedfire, as it has the highest – 568.23 hours, by investigating alternative suppliers for this material and work on improving its quality control.
+
+Lastly, Enterprise should consider incentivizing high-performing Vendors by offering long-term contracts or increased order volumes to those with minimal defects and downtime.
+
+
 
 
 
